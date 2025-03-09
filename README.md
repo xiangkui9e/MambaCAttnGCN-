@@ -42,16 +42,6 @@ For additional functionalities, you may install the following optional dependenc
   pip install mamba-ssm
   ```
 
-- **Mamba with causal-conv1d**:
-  ```bash
-  pip install mamba-ssm[causal-conv1d]
-  ```
-
-- **Mamba with development dependencies**:
-  ```bash
-  pip install mamba-ssm[dev]
-  ```
-
 ## Training Models
 
 To train models using cross-validation, follow the steps below:
